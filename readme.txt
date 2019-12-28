@@ -1,3 +1,2 @@
-git is a free opensource software !
-
-git is a very popule software !
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
